@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "collections": [
+    {
+      "id": "topic-environment",
+      "name": "Environment",
+      "kind": "topic"
+    },
+    {
+      "name": "Writing task 2",
+      "description": "A custom collection. The id is derived from the name when omitted."
+    }
+  ],
+  "cards": [
+    {
+      "id": "vocab-deteriorate",
+      "type": "vocabulary",
+      "front": { "text": "Deteriorate" },
+      "back": { "text": "恶化；变坏" },
+      "collections": ["topic-environment"],
+      "tags": ["writing", "academic"],
+      "notes": [
+        { "type": "definition", "content": "To become progressively worse." },
+        { "type": "pronunciation", "content": "/dɪˈtɪəriəreɪt/" },
+        { "type": "example", "content": "Air quality has deteriorated in the city centre." },
+        { "type": "collocations", "content": "deteriorate rapidly; a deteriorating situation" },
+        { "type": "usage_note", "content": "In this sense the verb is intransitive: the situation deteriorates. It does not take an object." },
+        { "type": "common_mistakes", "content": "Avoid “deteriorate the economy”. Use “worsen” or “damage” if you need an object." },
+        { "type": "band_tip", "content": "In Task 2, deteriorate is more precise than get worse." }
+      ]
+    },
+    {
+      "type": "paraphrasing",
+      "front": { "text": "A lot of people think that..." },
+      "back": { "text": "It is widely believed that..." },
+      "collections": ["Writing task 2"],
+      "tags": ["writing"],
+      "blocks": [
+        { "type": "usage_note", "content": "Use the impersonal form in essays. Keep “a lot of people think” for speaking if it sounds natural." }
+      ]
+    }
+  ]
+}

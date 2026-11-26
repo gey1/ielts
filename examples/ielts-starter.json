@@ -1,0 +1,284 @@
+{
+  "schema_version": 1,
+  "collections": [
+    { "name": "Environment" },
+    { "name": "Education" },
+    { "name": "Technology" },
+    { "name": "Healthcare" },
+    { "name": "Economics" },
+    { "name": "Employment" },
+    { "name": "Society" },
+    { "name": "Culture" },
+    { "name": "Government" },
+    { "name": "Globalisation" }
+  ],
+  "cards": [
+    {
+      "id": "vocab-deteriorate",
+      "type": "vocabulary",
+      "front": { "text": "Deteriorate" },
+      "back": { "text": "恶化；变坏" },
+      "collections": ["Environment"],
+      "tags": ["writing"],
+      "notes": [
+        { "type": "definition", "content": "To become progressively worse." },
+        { "type": "pronunciation", "content": "/dɪˈtɪəriəreɪt/" },
+        { "type": "example", "content": "Air quality has deteriorated since the factory reopened." },
+        { "type": "collocations", "content": "deteriorate rapidly; a deteriorating situation" },
+        { "type": "common_mistakes", "content": "The verb is intransitive here. Say “the situation deteriorated”, not “deteriorate the situation”." }
+      ]
+    },
+    {
+      "id": "vocab-mitigate",
+      "type": "vocabulary",
+      "front": { "text": "Mitigate" },
+      "back": { "text": "减轻；缓和" },
+      "collections": ["Environment"],
+      "tags": ["writing"],
+      "notes": [
+        { "type": "definition", "content": "To make something harmful less severe." },
+        { "type": "pronunciation", "content": "/ˈmɪtɪɡeɪt/" },
+        { "type": "example", "content": "Cities can mitigate the effects of heatwaves by planting trees." },
+        { "type": "collocations", "content": "mitigate the impact; mitigate the effects" }
+      ]
+    },
+    {
+      "id": "vocab-biodiversity",
+      "type": "vocabulary",
+      "front": { "text": "Biodiversity" },
+      "back": { "text": "生物多样性" },
+      "collections": ["Environment"],
+      "tags": ["writing"],
+      "notes": [
+        { "type": "definition", "content": "The variety of plants and animals in a place." },
+        { "type": "pronunciation", "content": "/ˌbaɪəʊdaɪˈvɜːsəti/" },
+        { "type": "example", "content": "Clearing forests reduces biodiversity and leaves fewer species able to survive." },
+        { "type": "usage_note", "content": "Uncountable in most IELTS sentences: “biodiversity is declining”." }
+      ]
+    },
+    {
+      "id": "collocation-pose-a-threat",
+      "type": "collocation",
+      "front": { "text": "pose a threat" },
+      "back": { "text": "构成威胁" },
+      "collections": ["Environment"],
+      "tags": ["writing", "speaking"],
+      "notes": [
+        { "type": "definition", "content": "To be a possible source of danger or harm." },
+        { "type": "example", "content": "Rising sea levels pose a threat to coastal communities." },
+        { "type": "synonyms", "content": "threaten; put something at risk" }
+      ]
+    },
+    {
+      "id": "vocab-curriculum",
+      "type": "vocabulary",
+      "front": { "text": "Curriculum" },
+      "back": { "text": "课程体系" },
+      "collections": ["Education"],
+      "tags": ["writing", "speaking"],
+      "notes": [
+        { "type": "definition", "content": "The subjects and content that a school or course teaches." },
+        { "type": "pronunciation", "content": "/kəˈrɪkjələm/" },
+        { "type": "example", "content": "The curriculum should leave room for both exams and practical projects." },
+        { "type": "common_mistakes", "content": "Plural: curricula or curriculums. Do not write “curriculums of a lesson” for a single class; use “lesson” or “syllabus”." }
+      ]
+    },
+    {
+      "id": "vocab-acquire",
+      "type": "vocabulary",
+      "front": { "text": "Acquire" },
+      "back": { "text": "获得；习得" },
+      "collections": ["Education"],
+      "tags": ["writing"],
+      "notes": [
+        { "type": "definition", "content": "To gain knowledge or a skill through effort or experience." },
+        { "type": "pronunciation", "content": "/əˈkwaɪə/" },
+        { "type": "example", "content": "Children acquire a second language more easily when they hear it every day." },
+        { "type": "collocations", "content": "acquire knowledge; acquire a skill" }
+      ]
+    },
+    {
+      "id": "collocation-draw-a-conclusion",
+      "type": "collocation",
+      "front": { "text": "draw a conclusion" },
+      "back": { "text": "得出结论" },
+      "collections": ["Education"],
+      "tags": ["writing"],
+      "notes": [
+        { "type": "definition", "content": "To decide what the evidence shows." },
+        { "type": "example", "content": "It is hard to draw a conclusion from a study that only lasted one week." }
+      ]
+    },
+    {
+      "id": "vocab-innovation",
+      "type": "vocabulary",
+      "front": { "text": "Innovation" },
+      "back": { "text": "创新" },
+      "collections": ["Technology"],
+      "tags": ["speaking", "writing"],
+      "notes": [
+        { "type": "definition", "content": "A new idea, method or product, or the act of introducing one." },
+        { "type": "pronunciation", "content": "/ˌɪnəˈveɪʃn/" },
+        { "type": "example", "content": "Innovation in public transport matters more than a faster phone." },
+        { "type": "usage_note", "content": "Innovation is the noun. The verb is innovate, and the adjective is innovative." }
+      ]
+    },
+    {
+      "id": "vocab-diagnosis",
+      "type": "vocabulary",
+      "front": { "text": "Diagnosis" },
+      "back": { "text": "诊断" },
+      "collections": ["Healthcare"],
+      "tags": ["writing"],
+      "notes": [
+        { "type": "definition", "content": "The identification of an illness or problem after examining the evidence." },
+        { "type": "pronunciation", "content": "/ˌdaɪəɡˈnəʊsɪs/" },
+        { "type": "example", "content": "An early diagnosis gives patients more treatment options." },
+        { "type": "common_mistakes", "content": "Plural: diagnoses. The verb is diagnose." }
+      ]
+    },
+    {
+      "id": "vocab-inflation",
+      "type": "vocabulary",
+      "front": { "text": "Inflation" },
+      "back": { "text": "通货膨胀" },
+      "collections": ["Economics"],
+      "tags": ["writing"],
+      "notes": [
+        { "type": "definition", "content": "A general rise in prices, so that money buys less than before." },
+        { "type": "pronunciation", "content": "/ɪnˈfleɪʃn/" },
+        { "type": "example", "content": "High inflation makes it harder for families on fixed incomes to pay rent." }
+      ]
+    },
+    {
+      "id": "vocab-unemployment",
+      "type": "vocabulary",
+      "front": { "text": "Unemployment" },
+      "back": { "text": "失业；失业率（视语境）" },
+      "collections": ["Employment"],
+      "tags": ["writing", "speaking"],
+      "notes": [
+        { "type": "definition", "content": "The state of not having a job, or the number of people in that state." },
+        { "type": "pronunciation", "content": "/ˌʌnɪmˈplɔɪmənt/" },
+        { "type": "example", "content": "Youth unemployment rises when companies stop hiring graduates." },
+        { "type": "usage_note", "content": "Uncountable. Say “the unemployment rate” when you mean the percentage." }
+      ]
+    },
+    {
+      "id": "vocab-inequality",
+      "type": "vocabulary",
+      "front": { "text": "Inequality" },
+      "back": { "text": "不平等" },
+      "collections": ["Society"],
+      "tags": ["writing"],
+      "notes": [
+        { "type": "definition", "content": "An unfair difference in wealth, opportunity or treatment." },
+        { "type": "pronunciation", "content": "/ˌɪnɪˈkwɒləti/" },
+        { "type": "example", "content": "Income inequality widens when wages stay flat and housing costs rise." },
+        { "type": "collocations", "content": "income inequality; social inequality; widen the gap" }
+      ]
+    },
+    {
+      "id": "paraphrase-widely-believed",
+      "type": "paraphrasing",
+      "front": { "text": "A lot of people think that cities are too crowded." },
+      "back": { "text": "It is widely believed that cities have become overcrowded." },
+      "collections": ["Society"],
+      "tags": ["writing"],
+      "notes": [
+        { "type": "usage_note", "content": "The impersonal pattern is safer in Task 2. In speaking, “a lot of people think” can still sound natural." }
+      ]
+    },
+    {
+      "id": "vocab-heritage",
+      "type": "vocabulary",
+      "front": { "text": "Heritage" },
+      "back": { "text": "遗产；传统" },
+      "collections": ["Culture"],
+      "tags": ["speaking", "writing"],
+      "notes": [
+        { "type": "definition", "content": "Traditions, buildings or objects that are passed from earlier generations." },
+        { "type": "pronunciation", "content": "/ˈherɪtɪdʒ/" },
+        { "type": "example", "content": "Local festivals are part of a city’s cultural heritage, not just a tourist product." },
+        { "type": "collocations", "content": "cultural heritage; preserve one’s heritage" }
+      ]
+    },
+    {
+      "id": "vocab-infrastructure",
+      "type": "vocabulary",
+      "front": { "text": "Infrastructure" },
+      "back": { "text": "基础设施" },
+      "collections": ["Government"],
+      "tags": ["writing"],
+      "notes": [
+        { "type": "definition", "content": "The basic systems a place needs, such as transport, power and water." },
+        { "type": "pronunciation", "content": "/ˈɪnfrəstrʌktʃə/" },
+        { "type": "example", "content": "Without better public transport infrastructure, new housing will increase traffic." },
+        { "type": "usage_note", "content": "Usually uncountable. Avoid “infrastructures” unless you are contrasting several systems." }
+      ]
+    },
+    {
+      "id": "vocab-interdependence",
+      "type": "vocabulary",
+      "front": { "text": "Interdependence" },
+      "back": { "text": "相互依存" },
+      "collections": ["Globalisation"],
+      "tags": ["writing"],
+      "notes": [
+        { "type": "definition", "content": "A relationship in which people, countries or systems rely on each other." },
+        { "type": "pronunciation", "content": "/ˌɪntədɪˈpendəns/" },
+        { "type": "example", "content": "Global supply chains create interdependence, so a strike in one port delays shops elsewhere." }
+      ]
+    },
+    {
+      "id": "sentence-not-only",
+      "type": "sentence_structure",
+      "front": { "text": "Not only..., but also..." },
+      "back": { "text": "不仅……而且……" },
+      "collections": ["Education"],
+      "tags": ["writing"],
+      "notes": [
+        { "type": "grammar", "content": "When “not only” starts the clause, invert the auxiliary: Not only does remote work save time, but it also reduces commuting." },
+        { "type": "example", "content": "Not only does the policy cut emissions, but it also makes city centres quieter." },
+        { "type": "common_mistakes", "content": "Do not write “Not only the policy cuts emissions”. The auxiliary has to come before the subject." }
+      ]
+    },
+    {
+      "id": "grammar-despite",
+      "type": "grammar_pattern",
+      "front": { "text": "Despite + noun" },
+      "back": { "text": "尽管（后接名词或动名词）" },
+      "collections": ["Education"],
+      "tags": ["writing"],
+      "notes": [
+        { "type": "grammar", "content": "Despite is a preposition, so it takes a noun or -ing form. Use “despite the fact that” before a full clause." },
+        { "type": "example", "content": "Despite the cost, many families still pay for private tutoring." },
+        { "type": "common_mistakes", "content": "Despite of is incorrect. Also avoid “despite it is expensive”." }
+      ]
+    },
+    {
+      "id": "register-a-great-deal",
+      "type": "register",
+      "front": { "text": "a lot of / a great deal of" },
+      "back": { "text": "很多；大量（后者更书面）" },
+      "collections": ["Education"],
+      "tags": ["writing", "speaking"],
+      "notes": [
+        { "type": "definition", "content": "Both mean a large amount. “A great deal of” is more formal and usually pairs with uncountable nouns." },
+        { "type": "example", "content": "The project requires a great deal of public money." },
+        { "type": "usage_note", "content": "In speaking, “a lot of” is natural. In Task 2, “a great deal of” or “a significant amount of” sounds more academic. Do not use “a great deal of people”; use “a great many people”." }
+      ]
+    },
+    {
+      "id": "paraphrase-children",
+      "type": "paraphrasing",
+      "front": { "text": "Kids today spend too much time online." },
+      "back": { "text": "Children today spend an excessive amount of time online." },
+      "collections": ["Technology"],
+      "tags": ["writing", "speaking"],
+      "notes": [
+        { "type": "usage_note", "content": "“Kids” is conversational. Essays usually need “children” or “young people”. “Too much” can become “an excessive amount of” when the noun is uncountable." }
+      ]
+    }
+  ]
+}
